@@ -1,2 +1,2 @@
-# fcc-style-guide
-Style guide for freeCodeCamp
+# fontpair-style-guide
+Style guide for Font Pair.
